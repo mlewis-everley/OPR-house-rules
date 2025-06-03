@@ -3,7 +3,7 @@ Adds a selection of extra rules to One Page Rules: Grimdark/Firefight, ported fr
 
 The rules here make changes to charging and ranged combat. The intention of these rules is to make tactics like distractions, feints and pincer attacks more interesting and to reward slightly more clever tactics when there is a lot of terrain.
 
-The rules below sometimes overlap with "boosts" from the advanced rules, boosts can be stacked with the below rules.
+These rules sometimes overlap with existing rules (such as "boosts") from the advanced rules, for the most part, these rules can be stacked with the existing rules (common sense applies).
 
 ## Take Aim Action
 If a unit with ranged weapons chooses not to move, they can shoot with a +1 bonus to quality.
