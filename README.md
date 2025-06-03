@@ -1,4 +1,4 @@
-# One Page Rules: Grimdard/Firefight House Rules
+# One Page Rules: Grimdark/Firefight House Rules
 Adds a selection of extra rules to One Page Rules: Grimdark/Firefight, ported from https://fadwargame.com and designed to make gameplay a little more tactical and brutal!
 
 The rules here make changes to charging and ranged combat. The intention of these rules is to make tactics like distractions, feints and pincer attacks more interesting and to reward slightly more clever tactics when there is a lot of terrain.
