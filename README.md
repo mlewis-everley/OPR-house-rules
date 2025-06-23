@@ -28,15 +28,15 @@ Recieving wounds remains unchanged, however the roll for shaken/fatalities is ch
 
 If any of the dice rolls a 1, then the unit is considered a fatality and is removed from play
 
-## If any dice rolls a 6
+### If any dice rolls a 6
 
 If any dice rolls a 6 then the unit carries on the fight!
 
-## If there are 1's and 6's rolled
+### If there are 1's and 6's rolled
 
 In this case, see which had the most results (1 or 6) and apply the rules above.
 
-## If no 1's or 6's or equal 1's or 6's
+### If no 1's or 6's or equal 1's or 6's
 
 In the case none of the above apply (or there are an equal number of 1's and 6's), then the unit is staggered as usual.
 
