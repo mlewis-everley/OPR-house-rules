@@ -40,6 +40,8 @@ In this case, see which had the most results (1 or 6) and apply the rules above.
 
 In the case none of the above apply (or there are an equal number of 1's and 6's), then the unit is staggered as usual.
 
+*NOTE: If the unit has `tough` then they ignore the initial wounds as per the basic wounds rules*
+
 ## Reactions (Advanced)
 
 A simple reactions system allows a unit to act when it is not their turn, to a limited degree. A unit can only perform **one** of the actions below a turn, but a commander can also spend boost points (advanced rules) to allow units to perform additional reactions.
