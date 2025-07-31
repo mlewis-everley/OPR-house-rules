@@ -20,9 +20,11 @@ All ranged weapons can be shot at "long" range, which is double the weapons curr
 
 **For Example** A rifle with a range of 24" can be used to target an enemy model between 24" and 48", but the quality roll will suffer a -2 penalty.
 
-## Changes to Wounds
+## Changes to Wounds (Firefight)
 
-Recieving wounds remains unchanged, however the roll for shaken/fatalities is changed. Track wounds on the character, but now, for every wound, roll a D6 and check the results below:
+Any unit that has more than one figure does not recieve wounds. Once the final figure of a unit with more than one model recieves damaged, that model is removed and the unit is defeated.
+
+For units containing a single figure, the roll for shaken/fatalities is changed. Track wounds on the character, but now, for every wound, roll a D6 and check the results below:
 
 | Dice Result                       | Action                                                         |
 | :-------------------------------- | :------------------------------------------------------------- |
@@ -31,7 +33,9 @@ Recieving wounds remains unchanged, however the roll for shaken/fatalities is ch
 | **Both 1's and 6's rolled**       | Which had the most results (1 or 6) and apply the rules above. |
 | **No/equal number of 1's or 6's** | This unit is staggered as usual.                               |
 
-*NOTE: If the unit has `tough` then they ignore the initial wounds as per the basic wounds rules*
+If a unit has `tough` then they now must roll a wound dice after every wound **BUT** they may re-roll a number of dice equal to their "tough" ability. For example, a unit with *tough (3)* may re-roll up to 3 of their wound dice. If they only have 1 wound, they can re-roll that dice 3 times.
+
+
 
 ## Reactions (Advanced)
 
